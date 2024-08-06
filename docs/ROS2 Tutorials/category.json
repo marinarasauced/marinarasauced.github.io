@@ -1,0 +1,9 @@
+{
+    "label": "ROS2",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "A few hours (at least) to learn ROS2."
+    }
+  }
+  
